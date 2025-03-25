@@ -1,7 +1,7 @@
-# SQL-HackerRank-Gold-Badge
+# SQL-HackerRank
 
 
-**** **I Earned SQL HackerRank Gold Batch !******
+**** **I Earned SQL HackerRank Basic,Intermiadiate,Advance Certificate and Gold Badge !******
 
 Working on these challenges has greatly enhanced my SQL skills, from mastering complex queries to optimizing database performance.
 
